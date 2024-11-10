@@ -24,6 +24,12 @@ Code to generate my personal website.
   ./scripts/update
   ```
 
+## Documentation
+
+- [Hugo](https://gohugo.io/documentation/)
+- [`PaperMod`](https://github.com/adityatelange/hugo-PaperMod/wiki)
+- [Example `PaperMod` website](https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite)
+
 ## Credits
 
 - Readme is based on [rodrigobdz/minimal-readme](https://github.com/rodrigobdz/minimal-readme)
