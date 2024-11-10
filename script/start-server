@@ -9,5 +9,8 @@ set -o nounset
 # shellcheck disable=SC1091
 source utils.sh
 
+fancy_echo "Open http://localhost:1313/ in the default browser"
+open http://localhost:1313/
+
 fancy_echo "Start a local server"
 hugo server
