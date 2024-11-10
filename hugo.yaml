@@ -11,9 +11,6 @@ params:
     enabled: true
     title: "Rodrigo Bermudez Schettino"
     subtitle: "Computer Scientist and Engineer"
-  homeInfoParams:
-    title: "Rodrigo Bermudez Schettino"
-    content: "Computer Scientist and Engineer"
   socialIcons:
     - name: GitHub
       url: https://github.com/rodrigobdz
