@@ -3,6 +3,7 @@ languageCode: en-us
 title: Rodrigo Bermudez Schettino
 theme: ["PaperMod"]
 params:
+  env: production
   description: "Computer Scientist and Engineer"
   author: Rodrigo Bermudez Schettino
   disableThemeToggle: true
