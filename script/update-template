@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#
+# Update Hugo template as Git submodule.
+
+set -o errexit
+set -o pipefail
+set -o nounset
+
+fancy_echo "Update Git submodule  with Hugo template"
+git submodule update --remote --merge

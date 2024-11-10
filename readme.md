@@ -18,6 +18,12 @@ Code to generate my personal website.
   ./scripts/start
   ```
 
+- Update theme
+
+  ```sh
+  ./scripts/update
+  ```
+
 ## Credits
 
 - Readme is based on [rodrigobdz/minimal-readme](https://github.com/rodrigobdz/minimal-readme)
