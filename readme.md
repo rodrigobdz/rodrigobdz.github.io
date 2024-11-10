@@ -1,4 +1,4 @@
-# Personal Website
+# Website
 
 Code to generate my personal website.
 
