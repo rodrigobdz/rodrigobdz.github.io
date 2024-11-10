@@ -11,7 +11,7 @@ params:
     enabled: true
     title: "Rodrigo Bermudez Schettino"
     subtitle: "Computer Scientist and Engineer"
-    imageUrl: "/images/photo-rodrigo-schettino.png"
+    imageUrl: "/images/photo-rodrigo-schettino.jpg"
     imageTitle: "Profile picture of Rodrigo Bermudez Schettino"
   socialIcons:
     - name: GitHub
