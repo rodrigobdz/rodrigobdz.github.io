@@ -15,7 +15,7 @@ Code to generate my personal website.
 - Start local server
 
   ```sh
-  ./scripts/start
+  ./scripts/start-server
   ```
 
 - Update theme
