@@ -8,6 +8,8 @@ params:
   disableThemeToggle: true
   profileMode:
     enabled: true
+    title: "Rodrigo Bermudez Schettino"
+    subtitle: "Computer Scientist and Engineer"
   homeInfoParams:
     title: "Rodrigo Bermudez Schettino"
     content: "Computer Scientist and Engineer"
